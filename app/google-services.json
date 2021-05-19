@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605474067444",
+    "project_id": "oxygrant-provider-c76e7",
+    "storage_bucket": "oxygrant-provider-c76e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605474067444:android:047e42adf81af5e5249fa1",
+        "android_client_info": {
+          "package_name": "com.pensource.oxygrant.oxygrant_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605474067444-nt5b5rv4h8runt3kgdgq202vm0tb3dqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pensource.oxygrant.oxygrant_provider",
+            "certificate_hash": "dec0b81f8ba9e02ea701dfb8247616ac17fd706a"
+          }
+        },
+        {
+          "client_id": "605474067444-ackqeb9800me9il8jikf1j9m6bscm9sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdFPqXRKTjBkG2tGgRGgXB02QCld1wvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605474067444-ackqeb9800me9il8jikf1j9m6bscm9sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
